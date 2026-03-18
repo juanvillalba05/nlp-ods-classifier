@@ -45,7 +45,7 @@ handling class imbalance present in the original dataset.
 
 ## How to run
 ```bash
-git clone https://github.com/tu-usuario/nlp-ods-classifier
+git clone https://github.com/juanvillalba05/nlp-ods-classifier
 cd nlp-ods-classifier
 pip install -r requirements.txt
 jupyter notebook nlp-ods-classifier.ipynb
