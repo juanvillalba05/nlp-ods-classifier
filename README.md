@@ -65,4 +65,3 @@ Project developed as part of the Unsupervised Machine Learning course —
 Master's in Artificial Intelligence.
 
 **Dataset:** [OSDG Community Dataset](https://osdg.ai/news/New-release-of-OSDG-Community-dataset)
-```
