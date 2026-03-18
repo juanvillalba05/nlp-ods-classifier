@@ -66,5 +66,3 @@ Master's in Artificial Intelligence.
 
 **Dataset:** [OSDG Community Dataset](https://osdg.ai/news/New-release-of-OSDG-Community-dataset)
 ```
-
----
